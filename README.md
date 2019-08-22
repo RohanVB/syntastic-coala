@@ -1,4 +1,4 @@
-# coala-syntastic
+# syntastic-coala
 
 **Installation Instructions:**
 
